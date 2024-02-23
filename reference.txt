@@ -1,0 +1,22 @@
+
+Python - "https://docs.python.org/3/"
+Linguagem de programação, utilizado em diversas áreas como desenvolvimento web
+Tópico 13, 4, 11
+
+Git - "https://git-scm.com/docs"
+Versionamento de código, para gerenciar o desenvolvimento de software, permite colaboração, rastreamento de alterações e reversão para versões anteriores
+Tópico 4
+
+VSCode - "https://code.visualstudio.com/Docs"
+Editor de código fonte, é um ambiente de desenvolvimento integrado (IDE)
+Tópico 
+
+SQLite - "https://www.sqlite.org/docs.html"
+gerenciamento de bancos de dados (RDBMS) usado em contexto onde é necessário um banco de dados incorporado.
+Tópico 8, 14
+
+Servidores Web: softwarre que aceita solicitações HTTP de clientes, como navegador web, e fornece respostas, hospedando e disponibilizando conteúdo online.
+Firefox - "https://firefox-source-docs.mozilla.org/contributing/index.html"
+Opera - "https://dev.opera.com/extensions/"
+Google Chorme - "https://developer.chrome.com/docs?hl=pt-br"
+Tópicos 3,2
