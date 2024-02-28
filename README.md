@@ -1,10 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20b2aa&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)!;Exercícios;Desenvolvimento+WEB+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)!+:%29;Exercícios;Desenvolvimento+WEB)](https://git.io/typing-svg)
+
+🌍
+*[English](README-en.md) ∙ [Português](README.md) ∙ [简体中文](README-zh.md)*
 
 
-
-![GitHub language count](https://img.shields.io/github/languages/count/amandfernandes/Calculator?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/amandfernandes/Calculator?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/amandfernandes/Calculator?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/amandfernandes/Dev.Web?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/amandfernandes/Dev.Web?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/amandfernandes/Dev.Web?style=for-the-badge)
 
 ## ☕ Sobre este repositório
 
