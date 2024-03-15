@@ -1,0 +1,47 @@
+
+
+body{
+    font: 1em sans-serif;
+    font-family: "Noto Sans Khojki", sans-serif;
+    
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "Ojuju", sans-serif;
+}
+
+h6{
+    font-size: 2em;
+}
+
+#Forms-get{
+    background: palevioletred;
+    min-height: 12pt;
+}
+
+#Greetings{
+    background: violet;
+    height: 5wh;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+}
+
+.infantil{
+    font-size: 1cm;
+}
+
+span{
+    color: pink;
+    background-color: blueviolet;
+    font-weight: bold;
+}
+
+
+/*crie (ou modifique) uma div para que tenha tamanho fixo
+• crie (ou modifique) uma div para que tenha tamanho
+relativo
+• crie (ou modifique) um span para que o texto seja em
+negrito vermelho e o fundo seja azul claro*/
